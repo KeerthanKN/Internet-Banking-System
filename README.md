@@ -1,6 +1,6 @@
 # Internet-Banking-System
 
-1.	Main Goals:
+1.	Main Goals: 
 •	Our motto is to develop a software program for managing the entire bank process related to Administration accounts customer accounts and to keep each every track about transaction processes efficiently.
 •	Hereby, our main objective is the customer’s satisfaction considering today’s faster in the world.  
   
